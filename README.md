@@ -15,3 +15,12 @@ StudySpark is an AI-powered study app that helps students learn smarter.
 
 ## Status
 🚧 Currently in development.
+⚡ StudySpark
+
+Study Smarter.
+Achieve More.
+
+[ Get Started ]
+
+Already have an account?
+Log In
